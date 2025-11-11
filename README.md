@@ -58,13 +58,13 @@ Amazon-Retail-Sales-Analysis/
 │   ├── processed_data.csv → Cleaned and transformed dataset (via Power Query)
 │
 ├──  excel/
-│   ├── Amazon_Retail_Analysis.xlsx → Main Excel workbook containing:
+│   ├── amazon_retail_dataset.xlsx → Main Excel workbook containing:
 │       - KPI calculations  
 │       - Pivot tables  
 │       - Dashboard worksheet  
 │
-├──  reports/
-│   ├── dashboard.png → Screenshot of the final Excel dashboard  
+├──  dashboard.png → Screenshot of the final Excel dashboard 
+│    
 │
 ├── README.md → Complete project documentation
 ```
